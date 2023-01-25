@@ -2,5 +2,5 @@
 
 void FlyNoWay::fly()
 {
-	cout << "ya ne umeyu letat " << endl;
+	cout << "ya ne umeyu letat :(" << endl;
 }

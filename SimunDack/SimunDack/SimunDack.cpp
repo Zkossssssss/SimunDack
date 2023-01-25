@@ -27,7 +27,7 @@ int main()
 	Redhead->performFly();
 
 	Duck* Decoy = new DecoyDuck();
-	Decoy->display(); 
+	Decoy->display();
 	Decoy->performQuack();
 	Decoy->swim();
 	Decoy->performFly();
